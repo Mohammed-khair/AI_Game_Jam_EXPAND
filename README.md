@@ -1,4 +1,3 @@
-# AI_Game_Jam_EXPAND
 # Convolutional Neural Network from Scratch
 
 This repository contains the implementation of a Convolutional Neural Network (CNN) from scratch using Python and the `numpy` library. The purpose of this project is to build the basic components of a CNN, including convolutional and pooling operations, and implement forward propagation.
